@@ -39,3 +39,8 @@ Markdown is the markup language that this document is written in! Markdown is co
 5. Scroll down and click "Exercise - Communicate using Markdown"
 6. This will take you to GitHub. Right click "Start Course" and clone the repo.
 7. Make sure to keep one tab open to the Readme page of your cloned repo and one in which you do the exercise.
+
+## What's in this repo?
+
+- A template for a weekly report, useful for reporting your progress to your advisor (from <a href="https://github.com/LucasVandroux/template-weekly-report" target="_blank" rel="noreferrer noopener">LucasVandroux</a>)
+- 
