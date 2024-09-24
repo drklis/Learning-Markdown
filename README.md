@@ -48,8 +48,9 @@ Markdown is the markup language that this document is written in! Markdown is co
 
 ## Want some links?
 
-Of course you do!
+'Course you do!
 
+- [GitHub's Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Guide](https://www.markdownguide.org/getting-started/)
 - [Fun, Easy Tutorial](https://www.markdowntutorial.com/)
 
