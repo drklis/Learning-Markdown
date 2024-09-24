@@ -43,4 +43,5 @@ Markdown is the markup language that this document is written in! Markdown is co
 ## What's in this repo?
 
 - A template for a weekly report, useful for reporting your progress to your advisor (from <a href="https://github.com/LucasVandroux/template-weekly-report" target="_blank" rel="noreferrer noopener">LucasVandroux</a>)
-- 
+- A template for writing up assignments (from <a href="https://gist.github.com/RobertTalbert/378fbf6e390d8ae97011" target="_blank" rel="noreferrer noopener">RobertTalber</a>)
+
