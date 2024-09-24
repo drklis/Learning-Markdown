@@ -44,7 +44,7 @@ Markdown is the markup language that this document is written in! Markdown is co
 
 - A template for a weekly report, useful for reporting your progress to your advisor (from <a href="https://github.com/LucasVandroux/template-weekly-report" target="_blank" rel="noreferrer noopener">LucasVandroux</a>)
 - A template for writing up assignments (from <a href="https://gist.github.com/RobertTalbert/378fbf6e390d8ae97011" target="_blank" rel="noreferrer noopener">RobertTalber</a>)
-- A Markdown cheat sheet (from <a href="https://www.markdownguide.org/cheat-sheet/ target="_blank" rel="noreferrer noopener">MarkdownGuide</a>)
+- A Markdown cheat sheet (from <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank" rel="noreferrer noopener">MarkdownGuide</a>)
 
 ## Want some links?
 
