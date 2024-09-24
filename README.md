@@ -50,6 +50,6 @@ Markdown is the markup language that this document is written in! Markdown is co
 
 Of course you do!
 
-- ![Markdown Guide](https://www.markdownguide.org/getting-started/)
-- ![Fun, Easy Tutorial](https://www.markdowntutorial.com/)
+- [Markdown Guide](https://www.markdownguide.org/getting-started/)
+- [Fun, Easy Tutorial](https://www.markdowntutorial.com/)
 
