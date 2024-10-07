@@ -4,6 +4,8 @@ Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
 
+*Some small edits made by [drklis](https://github.com/drklis). Viewing this file will show the formatting; viewing/editing the code will let you learn how to get that formatting.*
+
 ## Basic Syntax
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
@@ -110,10 +112,15 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
-### Subscript
+### Strikethrough
 
-H~2~O
+H~2~O~
 
-### Superscript
 
-X^2^
+### Subscript (Using LaTeX Math)
+
+$H_2O$
+
+### Superscript (Using LaTeX Math)
+
+$1^{st}$, $2^{nd}$, $3^{rd}$
