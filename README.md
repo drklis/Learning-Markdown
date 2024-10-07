@@ -26,7 +26,7 @@ For example:
 With a WYSIWYM, you're looking at and editing the **code** that will...
 ```
 
-## What is Mardown?
+## What is Markdown?
 
 Markdown is the markup language that this document is written in! Markdown is common with websites, and it's very easy to use here in GitHub. Today, we'll learn about using Markdown while also practicing the GitHub workflow (branches, pulls, commits).
 
