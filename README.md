@@ -1,4 +1,4 @@
-# Tech Tacos: Using Mardown in GitHub
+# Tech Tacos: Using Markdown in GitHub
 
 Both LaTeX and Markdown are examples of markup language. Today, we'll be learning how to use Markdown, an easy programming language that helps make clean formatting on multiple platforms.
 
